@@ -18,10 +18,10 @@ This is the official Github page of the $MS^2$ dataset described in the paper:
 ### Sensor System
 We designed a data collection platform that consists of RGB, NIR, thermal, and LiDAR stereo system along with a GPS/IMU module.
 
-<img src="img/sensor_system.png" width="900px"/>
+<img src="Img/sensor_system.png" width="1000px"/>
 
 ### Dataset Example
 The collected dataset are taken under locations of campus, city, residential area, road, and suburban with various time slots (morning, day, and night) and weather conditions (clear-sky, cloudy, and rainy). According to the surrounding conditions, each spectrum sensor shows different
 aspects, advantages, and disadvantages induced by their sensor characteristics.
 
-<img src="img/dataset_example.png" width="900px"/>
+<img src="Img/dataset_example.png" width="1000px"/>
